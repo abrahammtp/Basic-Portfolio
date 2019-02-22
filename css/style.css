@@ -8,8 +8,13 @@ header {
 h1 {
     color: white;
     background-color: #4aaaa5;
+    width: 200px;
+    text-align: center;
+    height: 30px;
+    padding: 30px;
 }
 
 nav {
-    color: #777777
+    color: #777777;
+    float: right;
 }
